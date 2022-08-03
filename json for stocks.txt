@@ -1,0 +1,23 @@
+{
+	"stock-exchange": {
+		"time": "2022-10-04 10:12:54",
+		"stock": [
+			{
+				"_tiker": "APP",
+				"_open": "112",
+				"_close": "116"
+			},
+			{
+				"_tiker": "BCD",
+				"_open": "120",
+				"_close": "136"
+			},
+			{
+				"_tiker": "RPW",
+				"_open": "117",
+				"_close": "110"
+			}
+		],
+		"_is_open": "true"
+	}
+}

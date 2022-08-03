@@ -1,0 +1,6 @@
+<stock-exchange is_open="true">
+	<time>2022-10-04 10:12:54</time>
+	<stock tiker="APP" open="112" close = "116"/>
+	<stock tiker="BCD" open="120" close = "136"/>
+	<stock tiker="RPW" open="117" close = "110"/>
+</stock-exchange>
